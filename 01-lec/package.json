@@ -1,0 +1,20 @@
+{
+  "name": "01-lec",
+  "version": "1.0.0",
+  "description": "my first backed app",
+  "keywords": [
+    "backed",
+    "express"
+  ],
+  "license": "ISC",
+  "author": "Krish",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
