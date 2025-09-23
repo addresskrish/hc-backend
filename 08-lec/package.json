@@ -1,0 +1,29 @@
+{
+  "name": "08-lec",
+  "version": "1.0.0",
+  "description": "lec no 8 of hc-backend series",
+  "keywords": [
+    "backend",
+    "javascript",
+    "chai",
+    "aur",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "karmjeet chauhan (krish)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
