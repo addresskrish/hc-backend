@@ -50,7 +50,7 @@ app.get("/me", (req, res) => {
 });
 
 app.get("/youtube", (req, res) => {
-  res.send("<h2>Just Daily Spaidey</h2>");
+  res.send("<h2>Just Daily Spidey</h2>");
 });
 
 app.get("/github", (req, res) => {
